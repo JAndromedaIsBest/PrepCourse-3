@@ -1,2 +1,4 @@
 # PrepCourse-3
-Great repository names are short and memorable. Need inspiration?
+GREAT REPOSITORY NAMES ARE SHORT AND MEMORABLE. NEED INSPIRATION?
+
+Programming is Difficult.
